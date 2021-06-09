@@ -1,0 +1,12 @@
+# Prototyping
+## 1st Iteration Code
+The code is meant to be used with the Arduino UNO board, servos, LCD display, and a joystick. The cod is meant to get input from the joystick and use that to change the amount of time that the user wants to set on their timer. The LCD display shows how much time the user is seeing and the display changes as the user increases the time or decreases the time. The timer starts when the user presses the bottom on the joystick and continues until the time runs out. The display continually shows how much time is left on the time and it also notifies the user when the time runs out. 
+
+## Box Design
+Before creating the illustrator design, I made a model of the box, so would know what pieces I would need to make. The tinkerCAD design is not accurate in measurements, but it is just to get an overall idea of what I want to make. The illustrator design is made up of the different pieces that will fit together to create a box that will hold the phone. The box automatically opens and closes with the servos that pull a piece of string. The string then is tied to the door and the door is pulled shut. The door functions kind of like a drawbridge, and it is controlled by the timer, so when the time runs out the door opens. Another important feature is the emergency stop button this is used if the user wants to open the door when the time hasn't run out yet, the button will stop the timer and open the door so the user can access their phone when they need it. 
+
+## Final Project
+Once the design was laser cut, I put it together using the different pieces. Then I also wired the joystick, LCD, and servos so they could all be connected to the Arduino at once. The box also contains a compartment at the top which is used for the Arduino and breadboard, and there is also a space at the top where the LCD display can be seen. 
+
+## Next Steps
+My partner and I were able to get some feedback from our users on what they wanted to include or remove in our next design. One idea that they liked was including a small space in the door so it is possible to insert a phone charger, so you can charge your phone while it is in the box. In our next Iteration, we will definitely include the charging space, and I also want to increase the space that is need for the Arduino and wiring because I feel like everything is currently crammed into a small space. Another improvement that I want to make is to create a better space to put the joystick and the LCD display because the sizing was not correct.
