@@ -4,6 +4,7 @@
   <img src="images/Screen Shot 2021-07-03 at 5.21.42 PM.png"/>
 </p>
 
+For the full presentation go to: https://docs.google.com/presentation/d/e/2PACX-1vQC-G_bO7TxGnpvw2YAJBVjNoPSlV91cOFHt0mkVWjMOMaaw_oAV_NwsgGkdubhFYvobEOrWpb5X_ue/pub?start=false&loop=false&delayms=3000
 # Empathy
 ## Empathy Interview
 The goal of the empathy interview was to gain a deep understanding of how the users felt and what they relly wanted. My partner (Josephine) and I came up with around 20 questions to ask our user group so we could learn what problems they had and wht they wanted to fix. Throughout the interview we took notes on a document to record what our users said, and felt. To really empathize with our users and understnad how they felt we put the notes from out interview into an empathy map.
