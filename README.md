@@ -1,27 +1,30 @@
 # LOX: 9th Grade IDE project
 
 <p align="center">
-  <img src="images/Screen Shot 2021-07-03 at 5.21.42 PM.png"/>
+  <img src="images/Screen Shot 2021-07-03 at 5.21.42 PM.png"width="160" height="100"/>
 </p>
 
+
 For the full presentation go to: https://docs.google.com/presentation/d/e/2PACX-1vQC-G_bO7TxGnpvw2YAJBVjNoPSlV91cOFHt0mkVWjMOMaaw_oAV_NwsgGkdubhFYvobEOrWpb5X_ue/pub?start=false&loop=false&delayms=3000
+
 # Empathy
 ## Empathy Interview
 The goal of the empathy interview was to gain a deep understanding of how the users felt and what they relly wanted. My partner (Josephine) and I came up with around 20 questions to ask our user group so we could learn what problems they had and wht they wanted to fix. Throughout the interview we took notes on a document to record what our users said, and felt. To really empathize with our users and understnad how they felt we put the notes from out interview into an empathy map.
 
 <p align="center">
-  <img src="images/image.png"/>
+  <img src="images/image.png"width="200" height="200"/>
 </p>
 
 ## Empathy Mapping
 My group's empathy map was made using the information from the interview. We created a chart based on what the users said, and how the felt as a result of what they said. Throught the empathy map we were able to synthesize the information from the interview and get a better idea of what the users wanted. 
 <p align="center">
-  <img src="images/image(1).png"/>
+  <img src="images/image(1).png" width="200" height="250"/>
 </p>
 ## Demand
 Through our interview, and empathy mapping, my group learned that our users wanted to stay focused and motivated, but they were having trouble. Specifically, they felt like they weren't motivated to exercise and got distracted while in school, or doing homework. This made them feel guilty because they knew that they needed to exercise and get work done, but they weren't able to. Through this, my partner and I learned that we needed to make something that would help our users stay focused and exercise, so they would have something to remind them to do what they need to do.
 <p align="center">
-  <img src="images/image(2).png"/>
+  <img src="images/image(2).png"width="200" height="350
+  0"/>
 </p>
 
 # Define
