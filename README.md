@@ -1,4 +1,4 @@
-# LOX: 9th Grade IDE project
+# LOX: 9th Grade Innovative Design project
 
 <p align="center">
   <img src="images/Screen Shot 2021-07-03 at 5.21.42 PM.png"width="340" height="200"/>
